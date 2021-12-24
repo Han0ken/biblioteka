@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СУБД_Библиотека", "СУБД_Библиотека\СУБД_Библиотека.csproj", "{62E0FFE2-4EF8-4426-B154-F30D1E55C01F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E0FFE2-4EF8-4426-B154-F30D1E55C01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E0FFE2-4EF8-4426-B154-F30D1E55C01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E0FFE2-4EF8-4426-B154-F30D1E55C01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E0FFE2-4EF8-4426-B154-F30D1E55C01F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A91CA6-19C9-4374-A01B-EB502A7E8EC3}
+	EndGlobalSection
+EndGlobal
